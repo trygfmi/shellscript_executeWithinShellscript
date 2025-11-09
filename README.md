@@ -35,8 +35,8 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -62,8 +62,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -89,8 +89,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -111,8 +111,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -177,8 +177,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -252,8 +252,8 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -353,8 +353,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
@@ -375,8 +375,8 @@ chmod 744 start_shellscript_executeWithinShellscript.sh
 
 
 <div class="wp-block-group">
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/trygfmi/shellscript_executeWithinShellscript
-cd trygfmi/shellscript_executeWithinShellscript
+<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_executeWithinShellscript.git
+cd shellscript_executeWithinShellscript
 cat test.sh
 cat start_shellscript_executeWithinShellscript.sh
 chmod 744 test.sh
