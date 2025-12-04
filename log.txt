@@ -1,0 +1,65 @@
+不可
+-rw-r--r--  1 ojiro  staff   0 Nov  3 02:22 test.sh
+
+可能 744
+-rwxr--r--  1 ojiro  staff  11 Nov  3 02:25 test.sh
+
+不可 654
+-rw-r-xr--  1 ojiro  staff   0 Nov  3 02:26 test.sh
+
+不可 654 user=root
+-rw-r-xr--  1 root   staff   0 Nov  3 02:26 test.sh
+
+不可 645
+./command_example.sh: line 5: ./test.sh: Permission denied
+
+
+
+-rw-rwxr--  1 root   staff  96 Nov  3 02:37 command_example.sh
+-rw-r--r-x  1 ojiro  staff  33 Nov  3 02:37 test.sh
+ok-iMac:sed_executeCommand ojiro$ chmod 744 test.sh
+ok-iMac:sed_executeCommand ojiro$ ./command_example.sh
+ojiro
+command_example.sh
+hello
+
+
+
+ok-iMac:sed_executeCommand ojiro$ chmod 654 test.sh
+ok-iMac:sed_executeCommand ojiro$ ./command_example.sh
+ojiro
+command_example.sh
+./command_example.sh: line 6: ./test.sh: Permission denied
+
+
+
+
+
+
+-rw-r-xr--  1 root   staff   72 Nov  3 03:55 command_example.sh
+-r--r-xr--  1 ojiro  staff   19 Nov  7 22:46 test.sh
+だと./command_example.shを実行した後、echo "echo hello test.sh" >> test.shと./test.shできない
+
+
+-rw-r-xr--  1 root   staff   72 Nov  3 03:55 command_example.sh
+-r-xr--r--  1 ojiro  staff   19 Nov  7 22:46 test.sh
+echo "echo hello test.sh" >> test.sh
+./test.sh
+だと./command_example.shを実行した後、echo "echo hello test.sh" >> test.shが実行できなくて./test.shはできる
+
+chmod 674 command_example.sh
+でecho "echo hello test.sh" >> test.shが実行できるかテストしてみたい
+
+
+
+
+
+-rwxr--r--  1 ojiro  staff    72 Nov  3 03:55 command_example.sh
+-r-xr--r--  1 ojiro  staff    19 Nov  9 15:24 test.sh
+の時に./command_example.shを実行すると、test.shに書き込み権限がないので、echo "echo hello test.sh" >> test.shが実行できない
+./command_example.sh: line 4: test.sh: Permission denied
+hello test.sh
+になる
+
+
+
