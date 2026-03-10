@@ -1,4 +1,7 @@
+__pycache__
+.DS_Store
+translate
+*.env
 command_example.sh
 command_example2.sh
 log.txt
-*.env
